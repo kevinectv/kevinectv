@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 kevinectv</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [TheEver.Bot](TheEver.Bot)
 
@@ -11,7 +11,4 @@
 <a href="https://instagram.com/kevinectv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kevinectv" height="20" width="20" /></a>
 <a href="https://dribbble.com/kevinectv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="kevinectv" height="20" width="20" /></a>
 </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinoficial946)](https://github.com/anuraghazra/github-readme-stats)
-
 
