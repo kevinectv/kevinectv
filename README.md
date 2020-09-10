@@ -4,7 +4,8 @@
 alt="kevinectv" height="50" width="50" /></a>
 <a href="https://Twitch.tv/kevinectv"><img src="https://img.icons8.com/cute-clipart/100/000000/twitch.png" alt="kevinectv" 
 height="50" width="50" /></a>
-<a href="https://dribbble.com/kevinectv" target="blank"><img align="center" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" alt="kevinectv" height="20" width="20" /></a></p>
+<a href="https://dribbble.com/kevinectv" target="blank"><img src="https://img.icons8.com/cute-clipart/100/000000/dribbble.png"
+alt="kevinectv" height="50" width="50" /></a></p>
 <h3 align="center">A young-dumb 😎 front end developer from Ecuador</h3>
 
 -  🔭 I’m currently working on [TheEver.Bot](TheEver.Bot)
