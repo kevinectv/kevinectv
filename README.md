@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 kevinectv</h1>
-<p align="center"><a href="https://codepen.io/kevinectv" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/2111/2111501.svg" alt="kevinectv" height="20" width="20" /></a>
+<p align="center"><a href=https://discord.gg/XeQ94TS" target="blank"><img src="https://img.icons8.com/cute-clipart/100/000000/discord-logo.png" alt="kevinectv" height="50" width="50" /></a>
 <a href="https://twitter.com/kevinectv"><img src="https://img.icons8.com/cute-clipart/100/000000/twitter.png" 
 alt="kevinectv" height="50" width="50" /></a>
 <a href="https://Twitch.tv/kevinectv"><img src="https://img.icons8.com/cute-clipart/100/000000/twitch.png" alt="kevinectv" 
