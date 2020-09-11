@@ -1,3 +1,4 @@
+<p><a target="_blank" rel="noopener noreferrer" href="https://static-cdn.jtvnw.net/jtv_user_pictures/f21ee355-0a0f-4b1d-bf45-7cd3110ce32a-profile_banner-480.png"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/f21ee355-0a0f-4b1d-bf45-7cd3110ce32a-profile_banner-480.png" style="max-width:100%;"></a></p>
 <h1 align="center">Hi there 👋 kevinectv</h1>
 <p align="center"><a href=https://discord.gg/XeQ94TS" target="blank"><img src="https://img.icons8.com/cute-clipart/100/000000/discord-logo.png" alt="kevinectv" height="50" width="50" /></a>
 <a href="https://twitter.com/kevinectv"><img src="https://img.icons8.com/cute-clipart/100/000000/twitter.png" 
