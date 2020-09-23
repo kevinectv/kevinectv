@@ -7,7 +7,7 @@ alt="kevinectv" height="50" width="50" /></a>
 height="50" width="50" /></a>
 <a href="https://dribbble.com/kevinectv" target="blank"><img src="https://img.icons8.com/cute-clipart/100/000000/dribbble.png"
 alt="kevinectv" height="50" width="50" /></a></p>
-<h3 align="center">A young-dumb 😎 front end developer from Ecuador</h3>
+<h3 align="center">🔧</h3>
 
 -  🔭 I’m currently working on [blog](blog)
 
