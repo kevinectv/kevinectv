@@ -11,7 +11,7 @@ alt="kevinectv" height="50" width="50" /></a></p>
 
 -  🔭 I’m currently working on a discord music bot!
 
--  📫 How to reach me **kevinectv@gmail.com**
+-  📫 How to reach me ****
 
 
 	<br><br>
@@ -39,19 +39,11 @@ alt="kevinectv" height="50" width="50" /></a></p>
   
 ### 
 ---
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Draxler!&center=true&width=380&height=45"> 
 
-- 🔭 I’m currently working on a discord music bot!
-  
 
-- 🌱 I’m currently coding in **Javascript** and C#.  
-  
 
-- ❓  I am in love with coding Discord Bots, I also love helping!
 
----
-
-.                    [![Discord Presence](https://lanyard.cnrad.dev/api/1018115443229212852)](https://discord.com/users/1018115443229212852)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1018115443229212852)](https://discord.com/users/1018115443229212852)
 
 
 
