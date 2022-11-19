@@ -30,7 +30,13 @@ alt="kevinectv" height="50" width="50" /></a></p>
 	<br><br>
 
 ![kevinectv](https://github-readme-stats.vercel.app/api?username=kevinectv&show_icons=true&theme=dark)
+<p align="center">
 
+<a href="https://github.com/HenGPlayZ">
+
+ <img src="https://github-readme-stats.vercel.app/api?username=kevinectv&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+
+</a>
   
 ### 
 ---
@@ -53,7 +59,7 @@ alt="kevinectv" height="50" width="50" /></a></p>
 &nbsp;
 <p align="center">
     <a href="https://github.com/HenGPlayZ">
-        <img src="https://github-readme-stats.vercel.app/api?username=Draxler&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kevinectv&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
   
 	
