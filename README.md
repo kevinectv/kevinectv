@@ -9,7 +9,7 @@ height="50" width="50" /></a>
 alt="kevinectv" height="50" width="50" /></a></p>
 <h3 align="center">🔧</h3>
 
--  🔭 I’m currently working on [blog](blog)
+-  🔭 I’m currently working on a discord music bot!
 
 -  📫 How to reach me **kevinectv@gmail.com**
 
