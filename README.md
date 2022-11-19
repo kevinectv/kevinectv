@@ -55,12 +55,7 @@ alt="kevinectv" height="50" width="50" /></a></p>
 .                    [![Discord Presence](https://lanyard.cnrad.dev/api/410380919212605440)](https://discord.com/users/410380919212605440)
 
 
-## 🔖 My Statistics
-&nbsp;
-<p align="center">
-    <a href="https://github.com/HenGPlayZ">
-        <img src="https://github-readme-stats.vercel.app/api?username=kevinectv&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
-    </a>
+
   
 	
   
