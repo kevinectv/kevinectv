@@ -51,7 +51,7 @@ alt="kevinectv" height="50" width="50" /></a></p>
 
 ---
 
-.                    [![Discord Presence](https://lanyard.cnrad.dev/api/410380919212605440)](https://discord.com/users/410380919212605440)
+.                    [![Discord Presence](https://lanyard.cnrad.dev/api/1018115443229212852)](https://discord.com/users/1018115443229212852)
 
 
 
