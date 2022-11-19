@@ -55,9 +55,6 @@ alt="kevinectv" height="50" width="50" /></a></p>
     <a href="https://github.com/HenGPlayZ">
         <img src="https://github-readme-stats.vercel.app/api?username=Draxler&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
-    <a href="https://github.com/HenGPlayZ">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxler&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
-    </a>
   
 	
   
